@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SilentSpray\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\dronedetecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\dronedetecter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|e:\\silentspray\\assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\dronemovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\playerhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\sprayprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\sprayprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\spraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\spraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverManager.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\GameOverManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameOverManager.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\GameOverManager.cs",
+              "RelativeToolTip": "Assets\\GameOverManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:20:30.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHide.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\PlayerHide.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerHide.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\PlayerHide.cs",
+              "RelativeToolTip": "Assets\\PlayerHide.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T00:07:03.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DroneMovement.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\DroneMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\DroneMovement.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\DroneMovement.cs",
+              "RelativeToolTip": "Assets\\DroneMovement.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:58:00.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DroneDetecter.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\DroneDetecter.cs",
+              "RelativeDocumentMoniker": "Assets\\DroneDetecter.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\DroneDetecter.cs",
+              "RelativeToolTip": "Assets\\DroneDetecter.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:33:01.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SprayProgress.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\SprayProgress.cs",
+              "RelativeDocumentMoniker": "Assets\\SprayProgress.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\SprayProgress.cs",
+              "RelativeToolTip": "Assets\\SprayProgress.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:20:58.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SprayController.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\SprayController.cs",
+              "RelativeDocumentMoniker": "Assets\\SprayController.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\SprayController.cs",
+              "RelativeToolTip": "Assets\\SprayController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T23:02:48.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "E:\\SilentSpray\\Assets\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
+              "ToolTip": "E:\\SilentSpray\\Assets\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\PlayerMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T22:54:46.221Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
