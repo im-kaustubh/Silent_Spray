@@ -6,7 +6,7 @@ Silent_Spray is a Unity-based game project developed using Unity version **6000.
 ---
 
 ##  Prerequisites
-- Unity Editor **6000.1.0f1**
+- Unity Editor **6000.1.3f1**
 - Git
 - Unity Hub 
 
