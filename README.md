@@ -1,7 +1,7 @@
 # Silent_Spray
 
 ##  Project Description
-Silent_Spray is a Unity-based game project developed using Unity version **6000.1.0f1**. This project is designed to be cross-platform and collaborative, supporting development on both macOS and Windows.
+Silent_Spray is a Unity-based game project developed using Unity version **6000.1.3f1**. This project is designed to be cross-platform and collaborative, supporting development on both macOS and Windows.
 
 ---
 
@@ -25,7 +25,7 @@ Silent_Spray is a Unity-based game project developed using Unity version **6000.
 ## Notes for macOS and Windows Users
 1. Unity projects are cross-platform, but avoid using OS-specific file paths in scripts.
 2. Use Application.dataPath or Path.Combine() for file access.
-3. Make sure all contributors use Unity 6000.1.0f1 to avoid version conflicts.
+3. Make sure all contributors use Unity 6000.1.3f1 to avoid version conflicts.
 4. .gitignore is configured to exclude platform-specific and auto-generated files.
 
 ---
