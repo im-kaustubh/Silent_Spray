@@ -4,7 +4,11 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
+
   productGUID: cc4ca7431abf81c42b2613f834f44c1b
+
+  productGUID: 393545b46c5874c20bff2c38c6ad6201
+>>>>>>> friend/main
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +17,11 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
+
   productName: SilentSpray
+
+  productName: My project
+
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -251,7 +259,11 @@ PlayerSettings:
   appleEnableProMotion: 0
   shaderPrecisionModel: 0
   clonedFromGUID: c19f32bac17ee4170b3bf8a6a0333fb9
+
   templatePackageId: com.unity.template.universal-2d@5.1.0
+
+  templatePackageId: com.unity.template.universal-2d@6.0.0
+
   templateDefaultScene: Assets/Scenes/SampleScene.unity
   useCustomMainManifest: 0
   useCustomLauncherManifest: 0
@@ -287,6 +299,7 @@ PlayerSettings:
   AndroidReportGooglePlayAppDependencies: 1
   androidSymbolsSizeThreshold: 800
   m_BuildTargetIcons: []
+<<<<<<< HEAD
   m_BuildTargetPlatformIcons:
   - m_BuildTarget: Android
     m_Icons:
@@ -380,14 +393,21 @@ PlayerSettings:
       m_Height: 36
       m_Kind: 0
       m_SubKind: 
+
+  m_BuildTargetPlatformIcons: []
+
   m_BuildTargetBatching: []
   m_BuildTargetShaderSettings: []
   m_BuildTargetGraphicsJobs: []
   m_BuildTargetGraphicsJobMode: []
+
   m_BuildTargetGraphicsAPIs:
   - m_BuildTarget: WindowsStandaloneSupport
     m_APIs: 0200000012000000
     m_Automatic: 0
+
+  m_BuildTargetGraphicsAPIs: []
+
   m_BuildTargetVRSettings: []
   m_DefaultShaderChunkSizeInMB: 16
   m_DefaultShaderChunkCount: 0
@@ -400,7 +420,10 @@ PlayerSettings:
     iPhone: 1
     tvOS: 1
   m_BuildTargetGroupLightmapEncodingQuality: []
+<<<<<<< HEAD
   m_BuildTargetGroupHDRCubemapEncodingQuality: []
+
+
   m_BuildTargetGroupLightmapSettings: []
   m_BuildTargetGroupLoadStoreDebugModeSettings: []
   m_BuildTargetNormalMapEncoding: []
@@ -602,7 +625,11 @@ PlayerSettings:
   ps4GarlicHeapSize: 2048
   ps4ProGarlicHeapSize: 2560
   playerPrefsMaxSize: 32768
+
   ps4Passcode: frAQBc8Wsa1xVPfvJcrgRYwTiizs2trQ
+
+  ps4Passcode: TNZsjGCR0PkOIgvaxfYgtOXEb0DXAS4k
+
   ps4pnSessions: 1
   ps4pnPresence: 1
   ps4pnFriends: 1
@@ -691,7 +718,10 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
+
   metroPackageName: SilentSpray
+
+  metroPackageName: My project
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
@@ -699,6 +729,7 @@ PlayerSettings:
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
   metroApplicationDescription: SilentSpray
+  metroApplicationDescription: My project
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -774,6 +805,13 @@ PlayerSettings:
   qualitySettingsNames: []
   projectName: SilentSpray
   organizationId: gkd303
+  activeInputHandler: 1
+  windowsGamepadBackendHint: 0
+  cloudProjectId: aa701dab-5b91-4a85-9ee3-8e29719f8bbd
+  framebufferDepthMemorylessMode: 0
+  qualitySettingsNames: []
+  projectName: My project 2025-05-20_02-29-09
+  organizationId: im_kaustubh
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
