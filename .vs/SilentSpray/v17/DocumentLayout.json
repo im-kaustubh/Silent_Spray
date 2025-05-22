@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "E:\\SilentSpray\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|e:\\silentspray\\assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\gameovermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -27,10 +31,6 @@
       "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\spraycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|E:\\SilentSpray\\assets\\playerhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3EC2833-EFC3-2607-F5DE-4C40F68B1347}|Assembly-CSharp.csproj|solutionrelative:assets\\playerhide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -46,11 +46,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "TMP_PackageResourceImporter.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Library\\PackageCache\\com.unity.ugui@5c9fd4989cdd\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@5c9fd4989cdd\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@5c9fd4989cdd\\Runtime\\TMP\\TMP_PackageResourceImporter.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAD4vx0AAADZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-21T22:13:22.946Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-21T22:13:22.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "AutoLogin.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Library\\PackageCache\\com.unity.collab-proxy@c854d1f7d97f\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
               "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.collab-proxy@c854d1f7d97f\\Editor\\Configuration\\CloudEdition\\Welcome\\AutoLogin.cs",
@@ -75,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "GameOverManager.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Assets\\GameOverManager.cs",
               "RelativeDocumentMoniker": "Assets\\GameOverManager.cs",
@@ -112,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DroneDetecter.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Assets\\DroneDetecter.cs",
               "RelativeDocumentMoniker": "Assets\\DroneDetecter.cs",
@@ -124,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "SprayProgress.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Assets\\SprayProgress.cs",
               "RelativeDocumentMoniker": "Assets\\SprayProgress.cs",
@@ -136,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "SprayController.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Assets\\SprayController.cs",
               "RelativeDocumentMoniker": "Assets\\SprayController.cs",
@@ -148,15 +147,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "PlayerMovement.cs",
               "DocumentMoniker": "E:\\SilentSpray\\Assets\\PlayerMovement.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMovement.cs",
               "ToolTip": "E:\\SilentSpray\\Assets\\PlayerMovement.cs",
               "RelativeToolTip": "Assets\\PlayerMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACoAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T22:54:46.221Z"
+              "WhenOpened": "2025-05-17T22:54:46.221Z",
+              "EditorCaption": ""
             }
           ]
         }
