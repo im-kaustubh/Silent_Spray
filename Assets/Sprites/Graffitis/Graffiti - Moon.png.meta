@@ -162,6 +162,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -684,7 +697,30 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graffiti - Moon_0: 2779691268508402906
+      Graffiti - Moon_1: 7615363589410914688
+      Graffiti - Moon_10: -3319315970530577275
+      Graffiti - Moon_11: -9221260808572289943
+      Graffiti - Moon_12: 4875557934892122042
+      Graffiti - Moon_13: 7582029647285187226
+      Graffiti - Moon_14: -7962816580096693619
+      Graffiti - Moon_15: -7298655369401248459
+      Graffiti - Moon_16: 495875689649562155
+      Graffiti - Moon_17: 2467854486134513785
+      Graffiti - Moon_18: -1604635678107648027
+      Graffiti - Moon_19: 114257774895954297
+      Graffiti - Moon_2: 5956059259979582161
+      Graffiti - Moon_20: -4142601524700824241
+      Graffiti - Moon_21: -2694454831076182866
+      Graffiti - Moon_22: 447983893833115156
+      Graffiti - Moon_3: -6629364018238456100
+      Graffiti - Moon_4: 3304188562656128726
+      Graffiti - Moon_5: -7718428178316500634
+      Graffiti - Moon_6: 5338811966400646165
+      Graffiti - Moon_7: 2199440137578174013
+      Graffiti - Moon_8: 6031835595102557743
+      Graffiti - Moon_9: 4229594844530941133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -177,6 +177,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -809,7 +822,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graffiti - Goose_0: 8859012056129822381
+      Graffiti - Goose_1: 7443098855406071826
+      Graffiti - Goose_10: 6429512077433603666
+      Graffiti - Goose_11: 2448929211599373461
+      Graffiti - Goose_12: 8219934779413968724
+      Graffiti - Goose_13: 2201222388615896728
+      Graffiti - Goose_14: 2954625037850757732
+      Graffiti - Goose_15: -6430178707553541923
+      Graffiti - Goose_16: 1507595636961321045
+      Graffiti - Goose_17: -5223132654465216532
+      Graffiti - Goose_18: 7060569058523791152
+      Graffiti - Goose_19: 5864788886968642086
+      Graffiti - Goose_2: -5106824037810081944
+      Graffiti - Goose_20: -5494282052520639338
+      Graffiti - Goose_21: 1816928954741756074
+      Graffiti - Goose_22: 4084545551671770591
+      Graffiti - Goose_23: -6813433899311160674
+      Graffiti - Goose_24: 3345724699780712803
+      Graffiti - Goose_25: 5618676622192672288
+      Graffiti - Goose_26: 9131262959056796514
+      Graffiti - Goose_27: 8682080923130478830
+      Graffiti - Goose_3: 7597301282634408303
+      Graffiti - Goose_4: -1029691883047121410
+      Graffiti - Goose_5: -3266782439627527917
+      Graffiti - Goose_6: 1793894457613532976
+      Graffiti - Goose_7: 7914527102922831808
+      Graffiti - Goose_8: -8148181778786922114
+      Graffiti - Goose_9: -8527388746466957886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

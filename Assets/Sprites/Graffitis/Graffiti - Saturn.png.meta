@@ -168,6 +168,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -734,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graffiti - Saturn_0: -178119951365494115
+      Graffiti - Saturn_1: -1152353050332465658
+      Graffiti - Saturn_10: 8993662411832699832
+      Graffiti - Saturn_11: -7642692974851818590
+      Graffiti - Saturn_12: -4308565297119616460
+      Graffiti - Saturn_13: 8632839013142495863
+      Graffiti - Saturn_14: -8460774683864716592
+      Graffiti - Saturn_15: 2066802030123471682
+      Graffiti - Saturn_16: -9112227575017167053
+      Graffiti - Saturn_17: 6438798496815051905
+      Graffiti - Saturn_18: 2592762100109403105
+      Graffiti - Saturn_19: 3084073540841152698
+      Graffiti - Saturn_2: 2229838240332161952
+      Graffiti - Saturn_20: 7200349635552074755
+      Graffiti - Saturn_21: 1081492418176229126
+      Graffiti - Saturn_22: -2649325112852336173
+      Graffiti - Saturn_23: -7495721603983847954
+      Graffiti - Saturn_24: 6437559077013123113
+      Graffiti - Saturn_3: -3663802119134381039
+      Graffiti - Saturn_4: 8870002642177899472
+      Graffiti - Saturn_5: 8306254484894453588
+      Graffiti - Saturn_6: -1113361269728512716
+      Graffiti - Saturn_7: 7219166636879905448
+      Graffiti - Saturn_8: 4810365670004328088
+      Graffiti - Saturn_9: 5230163032480569284
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

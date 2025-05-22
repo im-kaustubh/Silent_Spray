@@ -147,6 +147,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -559,7 +572,25 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Graffiti - Teddy_0: -7570443582035011286
+      Graffiti - Teddy_1: -3613422772374447168
+      Graffiti - Teddy_10: -9014013864883856645
+      Graffiti - Teddy_11: 7588137212521190636
+      Graffiti - Teddy_12: 1754523461208577454
+      Graffiti - Teddy_13: -6757132265798432496
+      Graffiti - Teddy_14: -4179682485882214881
+      Graffiti - Teddy_15: -2855626719294231188
+      Graffiti - Teddy_16: 6990763523261433450
+      Graffiti - Teddy_17: -7910059429580776092
+      Graffiti - Teddy_2: 3681117168637943008
+      Graffiti - Teddy_3: -1212342634646463294
+      Graffiti - Teddy_4: -6211185302687091546
+      Graffiti - Teddy_5: -4320664294815800602
+      Graffiti - Teddy_6: 5594953657071027096
+      Graffiti - Teddy_7: -2900586556172664123
+      Graffiti - Teddy_8: -7204369298284148745
+      Graffiti - Teddy_9: 2577883446339521261
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
