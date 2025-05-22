@@ -7,11 +7,14 @@ public class DroneDetector : MonoBehaviour
 
     void OnTriggerStay2D(Collider2D other)
     {
+        Debug.Log("🛰 Trigger Stay Entered with: " + other.name);  // Log when anything enters
+
         if (other.CompareTag("Drone"))
         {
+            Debug.Log("✅ Drone tag confirmed");
+
             PlayerHide playerHide = GetComponent<PlayerHide>();
 
-            // Check if sprayProgress or gameOverManager is missing
             if (sprayProgress == null)
             {
                 Debug.LogWarning("🚫 sprayProgress is not assigned!");
@@ -32,9 +35,17 @@ public class DroneDetector : MonoBehaviour
 
             if (Input.GetKey(KeyCode.E))
             {
-                Debug.Log("🚨 Drone spotted you spraying! You're caught!");
+                Debug.Log("🚨 Drone spotted you spraying! Triggering game over!");
                 gameOverManager.TriggerGameOver();
             }
+            else
+            {
+                Debug.Log("🔕 Player is not spraying right now");
+            }
+        }
+        else
+        {
+            Debug.Log("⛔ Detected object is NOT a Drone");
         }
     }
 }

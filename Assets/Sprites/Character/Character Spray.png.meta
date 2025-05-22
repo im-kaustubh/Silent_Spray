@@ -159,6 +159,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -659,7 +672,29 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Character Spray_0: -6957098443205324531
+      Character Spray_1: 1284387652403807744
+      Character Spray_10: 2875171341510753138
+      Character Spray_11: -6811765347865798501
+      Character Spray_12: -3457980503495200608
+      Character Spray_13: -5713962011038559371
+      Character Spray_14: -2530923859296891295
+      Character Spray_15: 2054662970065904382
+      Character Spray_16: -9188219887594392970
+      Character Spray_17: -7686838436283625472
+      Character Spray_18: 3240895425269243541
+      Character Spray_19: 6938001091128641387
+      Character Spray_2: -1511393032288996253
+      Character Spray_20: 5558458463133660953
+      Character Spray_21: 8283099815965730427
+      Character Spray_3: 4132699858749079788
+      Character Spray_4: -6629676952849000997
+      Character Spray_5: -4926916156532123225
+      Character Spray_6: 6893015698879180148
+      Character Spray_7: -1519509604746719019
+      Character Spray_8: 4092599175362856382
+      Character Spray_9: 7958238291090034579
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

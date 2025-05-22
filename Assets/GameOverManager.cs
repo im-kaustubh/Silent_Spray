@@ -6,14 +6,20 @@ public class GameOverManager : MonoBehaviour
 
     public void TriggerGameOver()
     {
+        Debug.Log("🧨 TriggerGameOver() CALLED");
+
         if (gameOverPanel != null)
         {
             gameOverPanel.SetActive(true);
-            Time.timeScale = 0f; // Pause the game
+            Debug.Log("✅ gameOverPanel.activeSelf: " + gameOverPanel.activeSelf);
+            Debug.Log("✅ Transform position: " + gameOverPanel.transform.position);
+            Debug.Log("✅ Rect size: " + gameOverPanel.GetComponent<RectTransform>().rect.size);
+            Time.timeScale = 0f;
         }
         else
         {
-            Debug.LogError("GameOverPanel is not assigned in the inspector!");
+            Debug.LogError("🚫 GameOverPanel reference is missing!");
         }
     }
+
 }
