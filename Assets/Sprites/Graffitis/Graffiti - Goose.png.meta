@@ -197,10 +197,10 @@ TextureImporter:
       name: Graffiti - Goose_0
       rect:
         serializedVersion: 2
-        x: 44
-        y: 129
-        width: 37
-        height: 47
+        x: 0
+        y: 0
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: Graffiti - Goose_1
       rect:
         serializedVersion: 2
-        x: 94
-        y: 134
-        width: 62
-        height: 37
+        x: 240
+        y: 0
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -241,10 +241,10 @@ TextureImporter:
       name: Graffiti - Goose_2
       rect:
         serializedVersion: 2
-        x: 109
-        y: 114
-        width: 27
-        height: 22
+        x: 480
+        y: 0
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -263,10 +263,10 @@ TextureImporter:
       name: Graffiti - Goose_3
       rect:
         serializedVersion: 2
-        x: 284
+        x: 720
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -285,10 +285,10 @@ TextureImporter:
       name: Graffiti - Goose_4
       rect:
         serializedVersion: 2
-        x: 524
+        x: 960
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -307,10 +307,10 @@ TextureImporter:
       name: Graffiti - Goose_5
       rect:
         serializedVersion: 2
-        x: 764
+        x: 1200
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -329,10 +329,10 @@ TextureImporter:
       name: Graffiti - Goose_6
       rect:
         serializedVersion: 2
-        x: 1004
+        x: 1440
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -351,10 +351,10 @@ TextureImporter:
       name: Graffiti - Goose_7
       rect:
         serializedVersion: 2
-        x: 1244
+        x: 1680
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,10 +373,10 @@ TextureImporter:
       name: Graffiti - Goose_8
       rect:
         serializedVersion: 2
-        x: 1484
+        x: 1920
         y: 0
-        width: 192
-        height: 176
+        width: 240
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -391,429 +391,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_9
-      rect:
-        serializedVersion: 2
-        x: 1724
-        y: 0
-        width: 192
-        height: 176
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2c56c297d11a8a980800000000000000
-      internalID: -8527388746466957886
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_10
-      rect:
-        serializedVersion: 2
-        x: 1964
-        y: 0
-        width: 192
-        height: 176
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 256838e5b273a3950800000000000000
-      internalID: 6429512077433603666
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_11
-      rect:
-        serializedVersion: 2
-        x: 79
-        y: 114
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 594457994285cf120800000000000000
-      internalID: 2448929211599373461
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_12
-      rect:
-        serializedVersion: 2
-        x: 114
-        y: 109
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 45739db7123131270800000000000000
-      internalID: 8219934779413968724
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_13
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 109
-        width: 12
-        height: 22
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 89e561199105c8e10800000000000000
-      internalID: 2201222388615896728
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_14
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 99
-        width: 47
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 46ac19151dfe00920800000000000000
-      internalID: 2954625037850757732
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_15
-      rect:
-        serializedVersion: 2
-        x: 229
-        y: 99
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dd0adf5b88a63c6a0800000000000000
-      internalID: -6430178707553541923
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_16
-      rect:
-        serializedVersion: 2
-        x: 104
-        y: 104
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 55022068e3e0ce410800000000000000
-      internalID: 1507595636961321045
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_17
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 99
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cef8bdb2684b387b0800000000000000
-      internalID: -5223132654465216532
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_18
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 69
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03fbc65762e2cf160800000000000000
-      internalID: 7060569058523791152
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_19
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 64
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 62aac627b6ae36150800000000000000
-      internalID: 5864788886968642086
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_20
-      rect:
-        serializedVersion: 2
-        x: 129
-        y: 49
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 69404bb459360c3b0800000000000000
-      internalID: -5494282052520639338
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_21
-      rect:
-        serializedVersion: 2
-        x: 214
-        y: 44
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: aa011810247073910800000000000000
-      internalID: 1816928954741756074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_22
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 34
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fdd3c44d9883fa830800000000000000
-      internalID: 4084545551671770591
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_23
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 14
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e9224fab7f1d171a0800000000000000
-      internalID: -6813433899311160674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_24
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 24
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 3690ea653e66e6e20800000000000000
-      internalID: 3345724699780712803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_25
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 14
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 02ef59d6e9c89fd40800000000000000
-      internalID: 5618676622192672288
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_26
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 0
-        width: 12
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 26b33412843c8be70800000000000000
-      internalID: 9131262959056796514
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Goose_27
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 0
-        width: 17
-        height: 11
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ee043669992fc7870800000000000000
-      internalID: 8682080923130478830
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9a11c60eb85d0ec498ed6669ab84e0cf
     internalID: 0
     vertices: []
     indices: 
@@ -821,36 +403,19 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":9.0,"y":1.0},"gridSpriteSize":{"x":240.0,"y":240.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Graffiti - Goose_0: 8859012056129822381
       Graffiti - Goose_1: 7443098855406071826
-      Graffiti - Goose_10: 6429512077433603666
-      Graffiti - Goose_11: 2448929211599373461
-      Graffiti - Goose_12: 8219934779413968724
-      Graffiti - Goose_13: 2201222388615896728
-      Graffiti - Goose_14: 2954625037850757732
-      Graffiti - Goose_15: -6430178707553541923
-      Graffiti - Goose_16: 1507595636961321045
-      Graffiti - Goose_17: -5223132654465216532
-      Graffiti - Goose_18: 7060569058523791152
-      Graffiti - Goose_19: 5864788886968642086
       Graffiti - Goose_2: -5106824037810081944
-      Graffiti - Goose_20: -5494282052520639338
-      Graffiti - Goose_21: 1816928954741756074
-      Graffiti - Goose_22: 4084545551671770591
-      Graffiti - Goose_23: -6813433899311160674
-      Graffiti - Goose_24: 3345724699780712803
-      Graffiti - Goose_25: 5618676622192672288
-      Graffiti - Goose_26: 9131262959056796514
-      Graffiti - Goose_27: 8682080923130478830
       Graffiti - Goose_3: 7597301282634408303
       Graffiti - Goose_4: -1029691883047121410
       Graffiti - Goose_5: -3266782439627527917
       Graffiti - Goose_6: 1793894457613532976
       Graffiti - Goose_7: 7914527102922831808
       Graffiti - Goose_8: -8148181778786922114
-      Graffiti - Goose_9: -8527388746466957886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

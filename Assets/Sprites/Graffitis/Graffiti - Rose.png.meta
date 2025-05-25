@@ -131,10 +131,10 @@ TextureImporter:
       name: Graffiti - Rose_0
       rect:
         serializedVersion: 2
-        x: 14
-        y: 174
-        width: 57
-        height: 47
+        x: 0
+        y: 0
+        width: 160
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,10 +153,10 @@ TextureImporter:
       name: Graffiti - Rose_1
       rect:
         serializedVersion: 2
-        x: 174
-        y: 19
-        width: 132
-        height: 207
+        x: 160
+        y: 0
+        width: 160
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -175,10 +175,10 @@ TextureImporter:
       name: Graffiti - Rose_2
       rect:
         serializedVersion: 2
-        x: 334
-        y: 19
-        width: 132
-        height: 207
+        x: 320
+        y: 0
+        width: 160
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -197,10 +197,10 @@ TextureImporter:
       name: Graffiti - Rose_3
       rect:
         serializedVersion: 2
-        x: 494
-        y: 19
-        width: 132
-        height: 207
+        x: 480
+        y: 0
+        width: 160
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -219,10 +219,10 @@ TextureImporter:
       name: Graffiti - Rose_4
       rect:
         serializedVersion: 2
-        x: 654
-        y: 19
-        width: 132
-        height: 207
+        x: 640
+        y: 0
+        width: 160
+        height: 240
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -237,33 +237,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Graffiti - Rose_5
-      rect:
-        serializedVersion: 2
-        x: 19
-        y: 19
-        width: 92
-        height: 117
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c81284190d0b47520800000000000000
-      internalID: 2698976486538879372
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: aff06a97015afe942a6377e32aa6188e
     internalID: 0
     vertices: []
     indices: 
@@ -271,14 +249,15 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":5.0,"y":1.0},"gridSpriteSize":{"x":160.0,"y":240.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Graffiti - Rose_0: 1988843096177077654
       Graffiti - Rose_1: -2566986664763792279
       Graffiti - Rose_2: -6075902590448683832
       Graffiti - Rose_3: -3980503680129264187
       Graffiti - Rose_4: 5681469081312585702
-      Graffiti - Rose_5: 2698976486538879372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

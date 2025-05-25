@@ -116,10 +116,10 @@ TextureImporter:
       name: Drone Withot Spotlight_0
       rect:
         serializedVersion: 2
-        x: 17
-        y: 368
-        width: 1406
-        height: 668
+        x: 0
+        y: 27
+        width: 128
+        height: 58
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

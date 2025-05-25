@@ -182,10 +182,10 @@ TextureImporter:
       name: Graffiti - Moon_0
       rect:
         serializedVersion: 2
-        x: 94
-        y: 139
-        width: 52
-        height: 12
+        x: 0
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -204,10 +204,10 @@ TextureImporter:
       name: Graffiti - Moon_1
       rect:
         serializedVersion: 2
-        x: 299
-        y: 29
-        width: 122
-        height: 122
+        x: 240
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -226,10 +226,10 @@ TextureImporter:
       name: Graffiti - Moon_2
       rect:
         serializedVersion: 2
-        x: 539
-        y: 29
-        width: 122
-        height: 122
+        x: 480
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -248,10 +248,10 @@ TextureImporter:
       name: Graffiti - Moon_3
       rect:
         serializedVersion: 2
-        x: 779
-        y: 29
-        width: 122
-        height: 122
+        x: 720
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -270,10 +270,10 @@ TextureImporter:
       name: Graffiti - Moon_4
       rect:
         serializedVersion: 2
-        x: 1019
-        y: 29
-        width: 122
-        height: 122
+        x: 960
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -292,10 +292,10 @@ TextureImporter:
       name: Graffiti - Moon_5
       rect:
         serializedVersion: 2
-        x: 1259
-        y: 29
-        width: 122
-        height: 122
+        x: 1200
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -314,10 +314,10 @@ TextureImporter:
       name: Graffiti - Moon_6
       rect:
         serializedVersion: 2
-        x: 1499
-        y: 29
-        width: 122
-        height: 122
+        x: 1440
+        y: 0
+        width: 240
+        height: 160
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -332,363 +332,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_7
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 104
-        width: 17
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d365519e62bf58e10800000000000000
-      internalID: 2199440137578174013
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_8
-      rect:
-        serializedVersion: 2
-        x: 119
-        y: 129
-        width: 12
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f2615a5048265b350800000000000000
-      internalID: 6031835595102557743
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_9
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 119
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: dcc171c0a1a82ba30800000000000000
-      internalID: 4229594844530941133
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_10
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 119
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5847e3716bb6fe1d0800000000000000
-      internalID: -3319315970530577275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_11
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 94
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 96c31d3a620870080800000000000000
-      internalID: -9221260808572289943
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_12
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 104
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: abff4172c1679a340800000000000000
-      internalID: 4875557934892122042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_13
-      rect:
-        serializedVersion: 2
-        x: 59
-        y: 84
-        width: 7
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a92f9eafac7c83960800000000000000
-      internalID: 7582029647285187226
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_14
-      rect:
-        serializedVersion: 2
-        x: 164
-        y: 89
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d8aeebb52846e7190800000000000000
-      internalID: -7962816580096693619
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_15
-      rect:
-        serializedVersion: 2
-        x: 174
-        y: 84
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 53557d88c97f5ba90800000000000000
-      internalID: -7298655369401248459
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_16
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 44
-        width: 22
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b22605eff44b1e600800000000000000
-      internalID: 495875689649562155
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_17
-      rect:
-        serializedVersion: 2
-        x: 109
-        y: 59
-        width: 27
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 970e66374949f3220800000000000000
-      internalID: 2467854486134513785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_18
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 64
-        width: 17
-        height: 17
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5efb97c3a503bb9e0800000000000000
-      internalID: -1604635678107648027
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_19
-      rect:
-        serializedVersion: 2
-        x: 169
-        y: 64
-        width: 7
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 979ff7547dce59100800000000000000
-      internalID: 114257774895954297
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_20
-      rect:
-        serializedVersion: 2
-        x: 89
-        y: 39
-        width: 7
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: f4d373a9cd58286c0800000000000000
-      internalID: -4142601524700824241
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_21
-      rect:
-        serializedVersion: 2
-        x: 154
-        y: 44
-        width: 12
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ea47e526b9f5b9ad0800000000000000
-      internalID: -2694454831076182866
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Graffiti - Moon_22
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 29
-        width: 12
-        height: 7
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 416e4095afe873600800000000000000
-      internalID: 447983893833115156
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 70881b816be3f594080856b899de4aee
     internalID: 0
     vertices: []
     indices: 
@@ -696,31 +344,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":7.0,"y":1.0},"gridSpriteSize":{"x":240.0,"y":160.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Graffiti - Moon_0: 2779691268508402906
       Graffiti - Moon_1: 7615363589410914688
-      Graffiti - Moon_10: -3319315970530577275
-      Graffiti - Moon_11: -9221260808572289943
-      Graffiti - Moon_12: 4875557934892122042
-      Graffiti - Moon_13: 7582029647285187226
-      Graffiti - Moon_14: -7962816580096693619
-      Graffiti - Moon_15: -7298655369401248459
-      Graffiti - Moon_16: 495875689649562155
-      Graffiti - Moon_17: 2467854486134513785
-      Graffiti - Moon_18: -1604635678107648027
-      Graffiti - Moon_19: 114257774895954297
       Graffiti - Moon_2: 5956059259979582161
-      Graffiti - Moon_20: -4142601524700824241
-      Graffiti - Moon_21: -2694454831076182866
-      Graffiti - Moon_22: 447983893833115156
       Graffiti - Moon_3: -6629364018238456100
       Graffiti - Moon_4: 3304188562656128726
       Graffiti - Moon_5: -7718428178316500634
       Graffiti - Moon_6: 5338811966400646165
-      Graffiti - Moon_7: 2199440137578174013
-      Graffiti - Moon_8: 6031835595102557743
-      Graffiti - Moon_9: 4229594844530941133
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

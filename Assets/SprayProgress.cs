@@ -4,34 +4,62 @@ using UnityEngine.UI;
 public class SprayProgress : MonoBehaviour
 {
     public Slider spraySlider;
-    public float sprayTime = 3f; // How long to fully spray
-    private float sprayTimer = 0f;
+    public float sprayTime = 9f;
+    public float refillDelay = 3f;
+    public float refillSpeed = 3f;
+
+    private float currentValue = 1f;
     private bool isSpraying = false;
+    private bool isRefilling = false;
+    private float refillTimer = 0f;
+
+    public bool CanSpray => currentValue > 0f;
+    public float CurrentValue => currentValue;
+
+    void Start()
+    {
+        spraySlider.value = currentValue;
+    }
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.E))
+        if (Input.GetKey(KeyCode.E) && currentValue > 0f)
         {
             isSpraying = true;
-            sprayTimer += Time.deltaTime;
-            spraySlider.value = sprayTimer / sprayTime;
+            isRefilling = false;
+            refillTimer = 0f;
 
-            if (sprayTimer >= sprayTime)
+            currentValue -= Time.deltaTime / sprayTime;
+            currentValue = Mathf.Clamp01(currentValue);
+            spraySlider.value = currentValue;
+        }
+
+        if (Input.GetKeyUp(KeyCode.E))
+        {
+            isSpraying = false;
+            refillTimer = 0f;
+        }
+
+        if (!isSpraying && currentValue < 1f)
+        {
+            refillTimer += Time.deltaTime;
+
+            if (refillTimer >= refillDelay)
             {
-                Debug.Log("✅ Spray completed!");
-                sprayTimer = 0f;
-                spraySlider.value = 0f;
-                // You can trigger a mission complete or artwork shown here
+                isRefilling = true;
             }
         }
-        else
+
+        if (isRefilling)
         {
-            if (isSpraying)
+            currentValue += Time.deltaTime * refillSpeed;
+            currentValue = Mathf.Clamp01(currentValue);
+            spraySlider.value = currentValue;
+
+            if (currentValue >= 1f)
             {
-                isSpraying = false;
-                sprayTimer = 0f;
-                spraySlider.value = 0f;
-                Debug.Log("🛑 Spray canceled.");
+                isRefilling = false;
+                refillTimer = 0f;
             }
         }
     }
