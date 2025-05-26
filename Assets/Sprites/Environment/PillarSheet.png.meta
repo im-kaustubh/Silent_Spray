@@ -1,28 +1,31 @@
 fileFormatVersion: 2
-guid: 5f3d967019f79f34e90b85bf99dd7c2b
+guid: f368f8c099052584ea8bab599272a17c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6663939740220737121
-    second: Pillar animated Spritesheet_0
+      213: -710099171180523041
+    second: PillarSheet_0
   - first:
-      213: 5101363269955171433
-    second: Pillar animated Spritesheet_1
+      213: 3082785568010027997
+    second: PillarSheet_1
   - first:
-      213: 5789078800072846009
-    second: Pillar animated Spritesheet_2
+      213: 2787745767335963288
+    second: PillarSheet_2
   - first:
-      213: 5903654064514435537
-    second: Pillar animated Spritesheet_3
+      213: -8098388472502113033
+    second: PillarSheet_3
   - first:
-      213: -6869971680247302590
-    second: Pillar animated Spritesheet_4
+      213: 8358102068997702192
+    second: PillarSheet_4
   - first:
-      213: 7067783778493354685
-    second: Pillar animated Spritesheet_5
+      213: -6626568864018450648
+    second: PillarSheet_5
   - first:
-      213: -6025892863248917819
-    second: Pillar animated Spritesheet_6
+      213: 2311124476803227548
+    second: PillarSheet_6
+  - first:
+      213: -8180686898579963234
+    second: PillarSheet_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -114,30 +117,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: Android
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_0
+      name: PillarSheet_0
       rect:
         serializedVersion: 2
-        x: 11
+        x: 95
         y: 0
-        width: 53
-        height: 116
+        width: 410
+        height: 921
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +136,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 166477cf2e11b7c50800000000000000
-      internalID: 6663939740220737121
+      spriteID: fd15c7ae0983526f0800000000000000
+      internalID: -710099171180523041
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_1
+      name: PillarSheet_1
       rect:
         serializedVersion: 2
-        x: 75
+        x: 607
         y: 0
-        width: 53
-        height: 116
+        width: 410
+        height: 921
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 96437e7addeabc640800000000000000
-      internalID: 5101363269955171433
+      spriteID: dd340fb042148ca20800000000000000
+      internalID: 3082785568010027997
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_2
+      name: PillarSheet_2
       rect:
         serializedVersion: 2
-        x: 139
+        x: 1119
         y: 0
-        width: 50
-        height: 116
+        width: 386
+        height: 921
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9ba261f2f70f65050800000000000000
-      internalID: 5789078800072846009
+      spriteID: 89aa82a510010b620800000000000000
+      internalID: 2787745767335963288
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_3
+      name: PillarSheet_3
       rect:
         serializedVersion: 2
-        x: 178
-        y: 101
-        width: 14
-        height: 13
+        x: 1431
+        y: 815
+        width: 98
+        height: 90
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -212,20 +202,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1d98c20c71efde150800000000000000
-      internalID: 5903654064514435537
+      spriteID: 7fca463679ebc9f80800000000000000
+      internalID: -8098388472502113033
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_4
+      name: PillarSheet_4
       rect:
         serializedVersion: 2
-        x: 203
+        x: 1631
         y: 0
-        width: 53
-        height: 117
+        width: 386
+        height: 921
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -234,20 +224,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 246bdddc725f8a0a0800000000000000
-      internalID: -6869971680247302590
+      spriteID: 032c0137c81fdf370800000000000000
+      internalID: 8358102068997702192
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_5
+      name: PillarSheet_5
       rect:
         serializedVersion: 2
-        x: 242
-        y: 104
-        width: 13
-        height: 12
+        x: 1943
+        y: 839
+        width: 90
+        height: 82
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -256,20 +246,42 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: db25d5a56efc51260800000000000000
-      internalID: 7067783778493354685
+      spriteID: 827348c2ab2b904a0800000000000000
+      internalID: -6626568864018450648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Pillar animated Spritesheet_6
+      name: PillarSheet_6
       rect:
         serializedVersion: 2
-        x: 267
+        x: 2015
+        y: 895
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f119f7773c21020800000000000000
+      internalID: 2311124476803227548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PillarSheet_7
+      rect:
+        serializedVersion: 2
+        x: 2143
         y: 0
-        width: 52
-        height: 116
+        width: 402
+        height: 921
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -278,8 +290,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 5ca9c7f0e5abf5ca0800000000000000
-      internalID: -6025892863248917819
+      spriteID: e92037fdb9c587e80800000000000000
+      internalID: -8180686898579963234
       vertices: []
       indices: 
       edges: []
@@ -297,14 +309,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      Pillar animated Spritesheet_0: 6663939740220737121
-      Pillar animated Spritesheet_1: 5101363269955171433
-      Pillar animated Spritesheet_2: 5789078800072846009
-      Pillar animated Spritesheet_3: 5903654064514435537
-      Pillar animated Spritesheet_4: -6869971680247302590
-      Pillar animated Spritesheet_5: 7067783778493354685
-      Pillar animated Spritesheet_6: -6025892863248917819
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
